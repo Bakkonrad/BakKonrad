@@ -1,11 +1,14 @@
+
 ### Hi there 👋
 
-    I am a Computer Science student at Collegium Da Vinci in Poznań. 
-    My goal is to become a Software Developer in C# .NET / Python. I am also developing for the position of Project Manager.
-    
-    I'm a big fan of all kinds of technology as well as automotive. 😀
-    
-    I like to create, talk and hear about new, interesting solutions to various problems. 
+I am a Computer Science graduate with an engineering degree and a passionate .NET developer. I am deeply interested in technology and automotive. I continuously seek practical knowledge, explore new solutions, and tackle diverse problems. I work well both independently and as part of a coordinated team. I am currently focused on developing my skills as a .NET developer and aiming to grow into a project manager role.  
+  
+My top 5 predispositions according to the Gallup-CliftonStrengths® test are :  
+-compatibility,  
+-visionary,  
+-closeness,  
+-maximalist,  
+-responsibility
 
-    - 📫 How to reach me: konri0908@gmail.com or linkedin.com/in/bakowskikonrad
+ 📫 How to reach me: [konrad.bakowski@protonmail.com](mailto:konrad.bakowski@protonmail.com) or on [Linkedin](https://www.linkedin.com/in/bakowskikonrad/)
     
